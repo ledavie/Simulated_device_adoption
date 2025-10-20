@@ -1,0 +1,1001 @@
+Device_ID,Procedure_Date,Physician_ID,Hospital_System_ID,Geographic_Region,Specialty,Target_Patient_Cohort,Revenue_Impact
+25795,2024-03-08,9125,424,East,Orthopedics,Standard,41750.75
+10860,2025-08-07,4291,491,West,Cardiology,High-Risk,59147.77
+86820,2023-12-26,5033,787,West,Cardiology,Standard,57420.88
+64886,2025-04-03,6105,727,East,Orthopedics,Standard,50666.11
+16265,2022-01-05,1703,539,Midwest,Orthopedics,Standard,54107.86
+92386,2024-04-30,9133,303,East,Orthopedics,Standard,30685.52
+47194,2022-03-19,1574,585,Midwest,Cardiology,Standard,55720.42
+97498,2023-07-28,6704,932,East,Orthopedics,Standard,48486.72
+54131,2022-05-12,8848,130,Midwest,Cardiology,Standard,39814.35
+70263,2023-08-24,6208,487,West,Cardiology,High-Risk,27012.41
+26023,2024-12-01,7924,724,Midwest,Cardiology,High-Risk,50404.42
+51090,2022-03-30,4828,976,East,Cardiology,Standard,55354.4
+77221,2023-02-06,4230,533,West,Cardiology,Standard,24462.77
+74820,2022-10-23,1488,936,West,Cardiology,Standard,50277.29
+10769,2025-08-11,8114,475,West,Cardiology,High-Risk,51833.6
+69735,2023-09-08,4173,443,West,Cardiology,Standard,41686.56
+72955,2024-03-10,2667,542,West,Cardiology,Standard,55697.57
+74925,2023-02-26,5114,678,West,Cardiology,Standard,48010.06
+77969,2024-11-12,4553,174,East,Cardiology,Standard,54247.57
+15311,2023-07-29,8761,656,West,Orthopedics,Standard,58013.7
+93104,2022-05-23,2000,871,East,Cardiology,Standard,58022.1
+63707,2024-09-19,2388,765,Midwest,Cardiology,Standard,65252.31
+95305,2023-10-27,6450,254,West,Cardiology,Standard,55074.88
+38693,2022-05-25,4712,529,Midwest,Orthopedics,Standard,42844.39
+81932,2025-06-02,2367,462,East,General Surgery,Standard,40283.15
+35658,2024-10-03,9189,547,Midwest,Orthopedics,Standard,34050.37
+94478,2023-05-18,1454,333,Midwest,Orthopedics,High-Risk,52267.69
+28431,2024-03-31,3772,662,West,Orthopedics,High-Risk,69819.68
+12747,2022-04-14,4726,917,West,Orthopedics,Standard,44623.21
+69150,2024-11-28,8232,361,East,Orthopedics,Standard,56744.12
+75725,2022-07-17,5806,926,Midwest,Cardiology,Standard,38715.8
+94654,2023-08-02,3190,224,West,Cardiology,High-Risk,52922.07
+45773,2023-01-26,3875,344,East,Cardiology,Standard,68890.21
+77435,2025-04-17,6592,641,East,General Surgery,Standard,60293.72
+66886,2023-07-08,2440,584,Midwest,Orthopedics,High-Risk,26437.82
+76803,2024-11-04,9927,221,Midwest,Orthopedics,Standard,58560.42
+41551,2025-08-05,7059,224,Midwest,Cardiology,High-Risk,59243.39
+21394,2023-04-23,8010,648,West,Cardiology,Standard,52602.3
+79092,2025-06-08,8117,269,East,Cardiology,Standard,60012.83
+13890,2024-07-11,3989,223,East,Cardiology,High-Risk,37497.47
+51606,2023-02-24,7228,968,East,General Surgery,Standard,50948.95
+90038,2022-06-06,7471,134,East,Orthopedics,Standard,66652.61
+97313,2023-07-04,3863,186,East,Cardiology,Standard,65299.24
+20627,2025-01-25,2177,745,East,General Surgery,High-Risk,58220.67
+18792,2024-10-17,5760,807,West,Cardiology,High-Risk,36755.07
+83969,2024-09-23,1011,885,Midwest,General Surgery,High-Risk,34393.04
+53001,2024-08-08,6252,300,West,Cardiology,Standard,51718.16
+86552,2022-10-16,5399,468,Midwest,Cardiology,Standard,52711.61
+33897,2025-07-01,9234,896,West,Cardiology,Standard,48494.42
+78148,2022-07-15,6445,176,East,Cardiology,Standard,37928.23
+33483,2023-08-21,7570,158,East,Cardiology,Standard,56554.42
+58555,2023-06-01,9212,530,East,Orthopedics,Standard,51652.48
+27159,2024-05-14,1406,737,East,General Surgery,Standard,54347.36
+90077,2025-02-15,5431,599,West,Orthopedics,High-Risk,58901.51
+45920,2024-03-16,6243,208,East,Cardiology,Standard,45895.25
+77121,2025-03-28,7542,835,East,Orthopedics,High-Risk,42668.62
+79479,2024-03-25,7936,377,East,Cardiology,High-Risk,66613.48
+99475,2022-08-16,9906,167,Midwest,Cardiology,Standard,38639.62
+29457,2022-08-04,5146,168,Midwest,Orthopedics,Standard,42962.39
+76557,2024-08-05,1140,264,West,Orthopedics,High-Risk,68513.72
+87189,2022-01-15,5882,588,East,Cardiology,Standard,41794.64
+88953,2025-03-26,7012,404,Midwest,Cardiology,Standard,48520.74
+62995,2025-07-08,1963,773,Midwest,General Surgery,Standard,43820.45
+50757,2025-03-26,8151,464,West,Cardiology,High-Risk,23251.68
+19692,2022-02-16,9564,953,Midwest,Cardiology,High-Risk,48150.39
+55758,2022-11-20,4610,920,East,Orthopedics,Standard,34840.67
+82409,2024-04-23,7894,478,Midwest,Cardiology,Standard,53818.71
+81211,2022-05-10,8311,442,Midwest,Cardiology,Standard,66584.58
+75697,2022-04-05,1105,998,East,Cardiology,Standard,16787.39
+47065,2023-09-19,6539,653,West,Orthopedics,High-Risk,43896.25
+42606,2024-01-25,7787,453,Midwest,Orthopedics,High-Risk,56784.85
+21534,2025-08-08,3137,515,East,Orthopedics,Standard,17249.77
+50397,2024-03-04,5445,208,West,General Surgery,High-Risk,70043.98
+11016,2025-07-30,4530,662,Midwest,Orthopedics,Standard,55698.38
+99789,2022-03-10,2286,861,West,Cardiology,Standard,66248.19
+65591,2022-01-11,8052,596,East,Cardiology,High-Risk,41540.78
+99812,2025-07-01,4654,440,West,Orthopedics,High-Risk,43350.19
+33247,2024-05-21,8102,482,East,Orthopedics,Standard,47585.95
+34300,2023-07-04,3359,632,West,Orthopedics,High-Risk,82073.14
+84065,2025-03-03,9105,399,East,Orthopedics,High-Risk,69771.58
+92798,2023-12-13,9636,238,West,Cardiology,Standard,51985.22
+19268,2022-01-23,7441,458,West,Cardiology,Standard,53816.03
+96807,2024-03-25,6047,935,West,Cardiology,High-Risk,59523.56
+22185,2022-12-12,9227,598,West,Cardiology,Standard,85873.32
+73704,2022-10-29,6203,484,West,Cardiology,Standard,55740.8
+96779,2022-12-29,2798,703,West,Orthopedics,Standard,50689.39
+49099,2023-01-31,6291,379,East,Orthopedics,Standard,44921.02
+18571,2022-08-06,6495,736,West,Cardiology,Standard,53523.73
+48044,2022-05-21,7284,582,East,Orthopedics,Standard,41194.67
+61214,2024-08-15,8285,210,Midwest,Orthopedics,High-Risk,57441.39
+71228,2025-05-18,2300,965,East,Cardiology,High-Risk,28511.05
+58984,2024-09-11,7869,238,West,Orthopedics,Standard,46092.49
+50774,2024-09-19,4097,534,West,Orthopedics,Standard,61019.49
+12568,2024-04-07,5616,608,West,Orthopedics,High-Risk,55536.85
+72592,2023-11-14,1009,372,East,Orthopedics,Standard,43060.63
+77563,2024-09-30,6752,198,West,Orthopedics,Standard,46519.63
+12695,2022-12-22,7295,863,West,Cardiology,Standard,65530.02
+58190,2024-10-04,5815,949,West,Cardiology,Standard,31843.97
+15258,2025-09-09,2072,203,East,Cardiology,Standard,31931.1
+97538,2025-03-02,4225,313,West,General Surgery,High-Risk,36055.49
+49504,2024-06-06,2316,860,West,Cardiology,High-Risk,49839.83
+43159,2022-05-07,6699,763,West,Cardiology,Standard,29648.93
+23986,2025-02-03,7807,861,West,General Surgery,High-Risk,64295.02
+71858,2024-10-05,7674,886,West,General Surgery,Standard,36135.61
+22666,2023-08-27,4683,264,East,Orthopedics,Standard,53365.33
+48660,2024-10-10,8227,952,East,Cardiology,Standard,41313.9
+13561,2022-02-20,4273,619,East,Cardiology,High-Risk,49017.54
+36854,2024-11-18,8000,383,East,Cardiology,High-Risk,25949.81
+74505,2025-08-12,1145,616,West,Cardiology,Standard,65019.74
+62251,2025-08-13,6010,756,West,Cardiology,Standard,35577.53
+32662,2024-02-18,4040,712,East,Orthopedics,Standard,34006.75
+18392,2024-03-24,1482,263,Midwest,General Surgery,Standard,85685.14
+40535,2025-10-01,4179,985,East,Cardiology,Standard,58314.61
+88603,2023-02-24,2249,758,Midwest,Orthopedics,Standard,64436.25
+62256,2025-04-20,1630,163,West,Orthopedics,High-Risk,56883.37
+99135,2024-09-09,9853,190,East,Cardiology,High-Risk,43212.79
+45222,2024-04-04,3852,216,East,Orthopedics,Standard,30397.25
+87373,2024-10-21,1987,965,West,Cardiology,Standard,45517.69
+89575,2023-07-21,8622,366,East,Cardiology,Standard,35327.61
+94651,2023-01-06,8327,921,Midwest,Orthopedics,Standard,36228.27
+73335,2024-07-24,9841,784,West,Cardiology,Standard,26252.19
+20965,2023-10-23,2100,658,Midwest,General Surgery,Standard,51717.14
+34538,2024-08-26,7652,239,East,Cardiology,Standard,73601.18
+80592,2025-08-25,9632,345,West,Orthopedics,Standard,58372.05
+18110,2025-03-06,8421,760,West,Cardiology,Standard,48413.14
+89309,2022-07-21,6016,857,West,Cardiology,Standard,49391.42
+37266,2022-11-09,1769,494,East,Cardiology,Standard,4283.34
+62992,2022-04-27,2343,586,West,Orthopedics,High-Risk,43642.47
+92948,2024-07-25,5358,575,West,General Surgery,High-Risk,28599.86
+16910,2023-07-29,7780,616,West,General Surgery,Standard,52016.19
+10206,2022-09-01,7602,283,East,Orthopedics,Standard,46100.36
+97054,2023-06-21,3349,119,Midwest,Orthopedics,Standard,36960.43
+97897,2022-03-16,6699,657,East,Orthopedics,Standard,51678.45
+33419,2023-01-21,2241,623,Midwest,Orthopedics,Standard,51549.19
+60636,2025-05-18,2125,681,Midwest,Orthopedics,Standard,72779.36
+60015,2023-04-20,7764,628,Midwest,Orthopedics,Standard,60296.26
+64268,2023-02-22,6101,982,West,General Surgery,Standard,53254.59
+97939,2022-12-13,8843,246,West,Cardiology,High-Risk,35787.28
+28141,2023-10-02,1072,765,Midwest,General Surgery,Standard,33898.41
+90356,2024-07-27,6472,403,East,Orthopedics,Standard,58982.72
+81910,2024-08-12,6189,719,West,Cardiology,Standard,46998.96
+66044,2024-05-25,3472,847,West,Cardiology,Standard,53740.48
+77214,2024-02-02,1707,919,West,Cardiology,Standard,64670.01
+43827,2025-04-17,2804,963,East,Orthopedics,High-Risk,27302.92
+65820,2025-04-20,7704,681,West,General Surgery,Standard,70955.53
+72623,2023-10-26,4713,794,Midwest,Cardiology,Standard,64540.73
+91734,2022-01-25,6051,861,East,General Surgery,Standard,19183.4
+85450,2025-04-18,3475,327,Midwest,General Surgery,High-Risk,85296.39
+32299,2023-12-11,4610,201,East,Cardiology,High-Risk,54820.64
+53585,2025-03-30,5255,686,East,General Surgery,High-Risk,42821.93
+74044,2022-06-26,8397,516,East,General Surgery,High-Risk,57785.93
+52557,2022-10-12,2735,315,East,Orthopedics,High-Risk,35337.88
+59080,2022-03-04,9258,506,Midwest,Orthopedics,Standard,58191.93
+12693,2024-09-29,8979,498,East,General Surgery,High-Risk,38097.55
+79163,2023-10-24,3428,814,West,Orthopedics,High-Risk,80305.39
+35939,2023-10-28,8426,803,East,Cardiology,Standard,50901.5
+58925,2022-06-05,9533,860,West,General Surgery,High-Risk,59747.35
+52941,2024-12-08,6249,598,West,Orthopedics,High-Risk,38209.02
+31834,2024-08-24,6291,853,East,Orthopedics,Standard,62247.44
+28047,2024-04-28,3817,564,East,Cardiology,High-Risk,49811.3
+36105,2025-01-12,4874,790,Midwest,Orthopedics,Standard,28822.22
+85766,2023-11-20,5211,830,East,Cardiology,High-Risk,46418.56
+25707,2022-05-28,1661,181,West,General Surgery,Standard,78966.67
+31976,2022-12-08,4374,703,East,Cardiology,Standard,62884.66
+54262,2023-04-21,1207,786,Midwest,Cardiology,Standard,44315.37
+33776,2024-12-22,3665,850,East,Cardiology,Standard,21962.51
+40080,2023-07-15,3493,871,West,Cardiology,Standard,37512.63
+76842,2022-11-23,7813,464,East,Orthopedics,Standard,28902.89
+71373,2025-03-10,1632,262,Midwest,General Surgery,High-Risk,22324.88
+16776,2024-09-16,4083,147,East,General Surgery,Standard,61783.87
+65016,2022-08-03,4719,610,Midwest,Cardiology,Standard,50935.81
+19474,2023-03-11,8123,428,West,Cardiology,Standard,76926.63
+68053,2024-08-09,2679,939,East,General Surgery,High-Risk,35035.37
+31959,2023-12-24,1236,215,Midwest,General Surgery,Standard,49965.79
+15530,2025-09-03,8446,948,East,Orthopedics,Standard,29087.38
+13748,2022-02-01,5443,436,Midwest,Orthopedics,High-Risk,41076.9
+23545,2023-11-01,7770,980,Midwest,Cardiology,Standard,46668.35
+76199,2022-10-12,7099,836,Midwest,General Surgery,High-Risk,44380.19
+44766,2025-08-21,9555,963,East,Orthopedics,Standard,50803.11
+83530,2023-03-05,3368,939,Midwest,Cardiology,High-Risk,64574.14
+71087,2022-10-13,1285,246,West,Cardiology,Standard,62996.26
+78840,2025-03-13,1148,674,Midwest,General Surgery,Standard,38459.98
+64384,2024-11-08,5037,905,West,Cardiology,Standard,49544.69
+61005,2022-01-18,7549,422,Midwest,Cardiology,Standard,61911.45
+56576,2024-02-08,8121,542,West,Orthopedics,Standard,65536.05
+49353,2023-08-13,5895,936,West,Cardiology,High-Risk,40082.65
+72003,2025-04-13,6280,112,East,Cardiology,Standard,60622.47
+93211,2024-10-06,2012,593,Midwest,General Surgery,High-Risk,54967.2
+62733,2022-07-13,3785,800,West,General Surgery,Standard,34010.16
+75318,2023-05-17,4725,386,West,General Surgery,High-Risk,62002.37
+99474,2024-09-14,5576,819,Midwest,General Surgery,Standard,52273.15
+33664,2025-02-10,6782,213,West,Orthopedics,Standard,23879.14
+77172,2022-04-24,7257,579,East,General Surgery,Standard,45592.2
+95616,2025-05-30,3408,121,West,Cardiology,Standard,50597.86
+36736,2024-08-04,1340,448,West,Orthopedics,High-Risk,40912.63
+10854,2024-04-10,3817,825,West,General Surgery,Standard,68423.43
+48623,2025-07-11,3496,782,East,Cardiology,Standard,68967.03
+17392,2024-07-13,6962,934,East,Cardiology,High-Risk,44262.65
+65680,2022-02-24,6299,665,East,Orthopedics,Standard,42616.62
+56717,2024-03-10,8574,909,West,Cardiology,Standard,48031.48
+97092,2024-02-17,2689,419,East,Cardiology,Standard,46998.79
+60859,2022-06-11,4267,225,West,General Surgery,Standard,41112.47
+36309,2022-03-28,5406,376,Midwest,General Surgery,Standard,0.0
+97455,2022-02-24,9453,303,East,Cardiology,Standard,76322.18
+73734,2025-04-16,2442,293,West,Cardiology,High-Risk,50006.27
+80467,2024-10-28,9597,780,Midwest,Cardiology,Standard,47325.35
+62662,2024-04-12,5437,763,Midwest,General Surgery,Standard,54877.54
+22688,2022-11-09,6435,646,West,Orthopedics,High-Risk,48799.13
+35342,2024-01-29,9435,795,West,Cardiology,Standard,43545.26
+47157,2023-03-19,5107,385,Midwest,Orthopedics,Standard,34915.31
+77863,2022-11-24,1560,156,West,Cardiology,Standard,22420.81
+62083,2024-12-13,9785,833,Midwest,Orthopedics,Standard,29684.32
+75733,2024-01-31,6548,402,East,General Surgery,High-Risk,33249.89
+99045,2025-06-16,2826,262,Midwest,Orthopedics,Standard,59763.83
+44698,2025-06-06,8629,118,West,Orthopedics,High-Risk,60869.35
+90623,2023-08-02,9325,469,West,Cardiology,Standard,36773.01
+32671,2024-12-10,4138,363,East,Orthopedics,Standard,10045.19
+35184,2024-10-03,8693,893,West,Orthopedics,Standard,50136.81
+52107,2025-07-11,9264,212,East,Cardiology,High-Risk,43676.87
+96202,2022-04-06,8842,587,Midwest,Orthopedics,Standard,43306.06
+61663,2025-01-16,7721,426,Midwest,Cardiology,Standard,64339.06
+25708,2025-01-06,8002,641,East,General Surgery,High-Risk,52079.79
+59811,2025-08-04,5225,746,Midwest,Cardiology,Standard,35354.31
+12811,2025-02-17,3978,678,Midwest,General Surgery,Standard,31903.8
+66250,2024-03-24,8373,164,West,Cardiology,Standard,46060.83
+82082,2023-05-06,6907,391,East,Orthopedics,High-Risk,36403.81
+44754,2023-03-28,7097,124,East,Orthopedics,High-Risk,48914.04
+21411,2022-06-14,6656,648,East,Orthopedics,Standard,65392.13
+12911,2022-07-01,9984,100,East,Cardiology,Standard,29303.26
+77270,2023-04-14,5259,648,Midwest,Orthopedics,High-Risk,51316.69
+93763,2024-06-28,9286,240,East,Orthopedics,High-Risk,63725.75
+18680,2024-01-05,6901,843,Midwest,Cardiology,Standard,48707.19
+94896,2024-04-02,5917,747,East,Cardiology,Standard,60823.71
+93879,2024-08-01,9429,287,West,Orthopedics,High-Risk,45690.91
+81295,2022-01-07,3530,227,Midwest,Orthopedics,Standard,52562.42
+98614,2022-11-26,2960,300,Midwest,Cardiology,Standard,56611.77
+21111,2024-02-14,8045,226,East,Cardiology,High-Risk,41419.96
+47504,2022-05-31,2048,356,West,Cardiology,Standard,79860.14
+11802,2025-01-13,6772,775,West,Orthopedics,Standard,58663.7
+18155,2022-05-27,3529,646,East,Orthopedics,Standard,69544.78
+83656,2024-07-03,3964,293,East,General Surgery,Standard,66065.36
+49384,2025-08-01,8137,802,West,General Surgery,Standard,54909.34
+57254,2023-12-01,1963,203,West,Orthopedics,Standard,70786.84
+31918,2022-03-23,1536,634,West,Cardiology,High-Risk,52818.72
+95981,2023-05-29,8340,364,East,Cardiology,Standard,39053.37
+70713,2024-03-25,8179,901,West,Cardiology,Standard,50222.29
+40306,2023-12-10,8967,483,West,General Surgery,High-Risk,34907.5
+26646,2024-01-16,9734,359,West,Orthopedics,High-Risk,18474.44
+56843,2024-10-19,1845,513,Midwest,Cardiology,High-Risk,37211.87
+26371,2023-12-08,6777,457,West,Cardiology,Standard,51093.22
+87371,2023-04-16,4036,174,Midwest,Orthopedics,High-Risk,65928.87
+12049,2025-02-16,6947,454,East,Orthopedics,High-Risk,37167.21
+41616,2023-01-31,3494,683,West,Cardiology,Standard,65152.44
+30932,2022-09-18,3719,870,East,General Surgery,Standard,31839.76
+39855,2024-03-15,2884,287,West,Orthopedics,High-Risk,36207.16
+71434,2024-07-22,5349,784,West,Cardiology,Standard,71737.35
+82694,2025-07-03,6179,389,Midwest,General Surgery,Standard,50714.32
+53016,2024-06-23,7610,144,East,Cardiology,Standard,47395.67
+17400,2025-06-03,7430,672,West,General Surgery,Standard,53529.2
+52642,2024-12-12,8154,182,West,General Surgery,High-Risk,31903.95
+25151,2024-07-28,7488,222,East,Orthopedics,Standard,45037.28
+61407,2024-05-03,5737,457,East,Orthopedics,Standard,50039.92
+76690,2025-07-27,7525,627,East,Cardiology,High-Risk,68470.71
+14499,2023-08-16,4850,165,East,General Surgery,High-Risk,24943.74
+16295,2023-12-15,1689,756,East,Orthopedics,Standard,76444.85
+69040,2025-03-27,6175,474,East,Orthopedics,High-Risk,48130.28
+22183,2023-09-24,9648,261,East,General Surgery,Standard,33341.66
+39299,2022-02-28,6078,845,West,General Surgery,High-Risk,30625.48
+22874,2022-05-08,6448,479,West,General Surgery,Standard,54097.24
+42711,2024-01-06,2179,755,Midwest,Cardiology,Standard,29791.86
+15539,2023-12-22,7406,457,West,General Surgery,Standard,41598.15
+63351,2025-02-12,9591,287,Midwest,Orthopedics,Standard,46251.45
+71267,2025-05-17,7907,421,Midwest,General Surgery,Standard,67155.14
+58354,2023-06-10,9800,549,West,Orthopedics,Standard,65276.8
+12557,2023-06-05,2638,573,West,Cardiology,Standard,40355.11
+48360,2023-07-06,6671,112,Midwest,Cardiology,Standard,46809.75
+92018,2022-08-25,7928,283,East,Orthopedics,Standard,26069.23
+12200,2025-07-28,2382,210,East,Orthopedics,Standard,19413.57
+78497,2025-05-09,2403,607,West,Cardiology,Standard,31564.21
+56975,2025-07-25,4292,389,West,Orthopedics,Standard,66846.46
+31357,2025-06-12,1419,394,East,Cardiology,High-Risk,61701.21
+87505,2023-05-09,5517,550,Midwest,General Surgery,Standard,55751.54
+12869,2022-01-04,4302,314,West,Orthopedics,Standard,28135.63
+71135,2023-10-28,8857,731,West,Cardiology,Standard,39325.11
+60108,2023-03-18,8870,993,Midwest,Cardiology,Standard,37132.68
+48467,2022-01-29,6693,666,West,Cardiology,Standard,47510.02
+33328,2025-02-06,1767,126,Midwest,Orthopedics,Standard,46564.2
+96831,2023-09-02,3044,729,West,Cardiology,High-Risk,34970.65
+13987,2024-03-15,2549,832,East,Cardiology,High-Risk,55238.25
+68871,2022-03-16,7140,330,Midwest,General Surgery,Standard,53434.2
+32399,2024-04-17,4716,664,West,General Surgery,Standard,39067.65
+56214,2025-03-15,5481,906,Midwest,Orthopedics,High-Risk,54564.18
+96416,2022-05-08,8898,420,Midwest,General Surgery,High-Risk,66864.28
+80271,2022-02-11,7548,332,Midwest,Cardiology,High-Risk,71420.91
+54064,2022-02-10,3293,769,West,Orthopedics,Standard,57359.93
+80091,2024-07-22,5837,536,Midwest,Orthopedics,Standard,56919.02
+50818,2022-02-03,8758,880,West,Orthopedics,Standard,46397.92
+55525,2024-11-06,7793,632,West,Cardiology,Standard,65445.69
+29830,2025-03-22,8638,502,Midwest,Orthopedics,Standard,33944.73
+27429,2024-09-24,8993,152,East,Cardiology,Standard,63707.75
+16893,2023-08-11,7007,886,West,Orthopedics,Standard,45685.93
+89909,2022-12-08,6542,412,Midwest,Cardiology,High-Risk,72364.05
+57333,2022-01-27,7356,380,West,Cardiology,Standard,58823.1
+13436,2025-08-03,9433,825,West,Cardiology,Standard,48982.01
+84290,2023-10-08,8380,130,Midwest,Cardiology,Standard,46452.69
+86213,2024-01-01,3385,436,West,Orthopedics,High-Risk,57884.19
+15895,2022-06-17,5268,282,Midwest,Cardiology,High-Risk,57156.87
+29738,2023-09-02,1671,122,East,General Surgery,High-Risk,44024.85
+40746,2022-09-25,1163,643,East,Cardiology,Standard,51377.54
+59377,2024-03-31,9656,545,East,Cardiology,Standard,63445.85
+58404,2023-03-31,5592,173,West,Orthopedics,High-Risk,29549.66
+64045,2024-06-24,5795,109,West,Cardiology,Standard,60888.17
+49790,2024-07-10,5798,583,Midwest,Orthopedics,Standard,57818.22
+15600,2024-09-07,7036,555,West,Orthopedics,High-Risk,67799.71
+50764,2023-12-03,3355,665,West,Cardiology,Standard,39265.19
+84543,2023-09-26,6887,663,East,Cardiology,High-Risk,50085.74
+55714,2022-05-10,8961,759,West,Cardiology,Standard,53076.03
+66835,2024-10-16,6827,259,West,Cardiology,Standard,61081.95
+83744,2024-03-29,9737,981,East,Cardiology,Standard,56436.75
+66491,2023-11-24,5719,113,East,Cardiology,High-Risk,31406.67
+28589,2025-08-08,1593,277,East,Cardiology,Standard,54365.66
+53484,2024-03-04,5839,511,East,Orthopedics,Standard,80063.43
+92989,2022-01-29,8394,977,West,Orthopedics,Standard,59176.36
+46212,2022-05-29,4493,152,East,Orthopedics,High-Risk,74570.7
+53525,2025-08-12,7164,507,West,Cardiology,High-Risk,65645.92
+57202,2022-01-11,3672,946,Midwest,Cardiology,High-Risk,70436.03
+42635,2023-11-07,5200,121,West,General Surgery,High-Risk,54649.53
+73208,2025-02-10,1016,129,Midwest,Orthopedics,Standard,57827.68
+43828,2022-07-06,4191,802,West,General Surgery,Standard,53832.77
+28711,2024-03-17,1392,359,West,Cardiology,Standard,50065.11
+13420,2024-01-14,9616,304,Midwest,Orthopedics,High-Risk,61132.92
+10301,2025-06-04,7272,158,East,Orthopedics,Standard,42184.97
+55236,2025-08-26,1571,570,Midwest,Cardiology,High-Risk,78280.73
+76235,2022-04-08,4631,875,East,Orthopedics,Standard,36079.81
+64240,2022-02-24,7172,565,West,Orthopedics,Standard,62170.82
+75726,2023-09-15,8177,111,East,Cardiology,Standard,70680.07
+20492,2023-10-26,9433,730,West,Cardiology,Standard,47350.67
+16102,2024-01-28,4897,389,West,Orthopedics,High-Risk,33305.34
+60336,2023-02-10,9123,949,West,General Surgery,Standard,67332.94
+95314,2022-03-10,3279,859,East,Cardiology,Standard,53050.93
+36641,2025-08-28,9980,453,East,Cardiology,Standard,62199.74
+44584,2025-08-05,8451,738,East,Cardiology,Standard,48358.18
+42745,2024-01-21,9906,174,East,Orthopedics,Standard,75978.87
+33093,2025-03-17,1775,972,Midwest,Cardiology,High-Risk,18244.88
+76105,2025-06-21,7869,815,East,General Surgery,Standard,55642.66
+61885,2024-08-15,3247,660,Midwest,Cardiology,High-Risk,70126.24
+46631,2022-12-31,8088,690,Midwest,Cardiology,Standard,51580.09
+82991,2023-04-27,1078,540,East,Orthopedics,Standard,54535.38
+14014,2022-07-20,9080,340,West,General Surgery,High-Risk,43489.82
+21093,2022-06-03,8099,960,East,Orthopedics,Standard,50310.33
+28070,2022-03-14,4926,253,East,Cardiology,Standard,24922.15
+45777,2023-12-14,8340,885,East,General Surgery,Standard,39223.53
+66958,2022-10-23,8083,195,West,Cardiology,Standard,38198.67
+92074,2024-11-06,7230,825,West,General Surgery,Standard,60036.86
+20729,2025-05-25,5940,393,West,Cardiology,Standard,41429.45
+55017,2022-03-02,4271,308,West,Orthopedics,Standard,41862.87
+76320,2024-07-27,4456,442,East,Orthopedics,Standard,44331.15
+37751,2022-02-11,8788,187,West,Cardiology,Standard,38770.33
+88069,2022-01-25,9599,917,Midwest,General Surgery,Standard,54035.33
+64748,2024-11-28,8650,875,East,Cardiology,Standard,55664.47
+15801,2022-05-11,3711,489,East,Cardiology,High-Risk,62375.28
+29190,2025-06-06,2668,424,West,Orthopedics,High-Risk,59791.25
+59689,2022-04-18,1147,988,East,Cardiology,High-Risk,58291.37
+60993,2022-06-21,7420,931,West,Orthopedics,Standard,45065.47
+39592,2022-04-12,1365,256,East,Cardiology,Standard,44103.44
+20647,2024-05-15,5531,767,East,Cardiology,Standard,36931.83
+18716,2023-06-08,6330,750,East,Cardiology,Standard,36661.34
+98891,2022-10-02,6510,732,East,Cardiology,High-Risk,52913.92
+97545,2024-12-03,9754,676,West,Orthopedics,Standard,39208.76
+99912,2024-03-27,9964,718,West,Orthopedics,Standard,72024.86
+80316,2024-08-14,7493,758,Midwest,General Surgery,Standard,49437.49
+12368,2024-11-06,6439,236,Midwest,General Surgery,Standard,72520.85
+87575,2022-11-26,7511,773,West,Cardiology,Standard,58576.51
+16655,2022-01-12,8504,527,Midwest,Cardiology,Standard,38341.45
+80031,2025-09-03,2246,551,East,Cardiology,Standard,49069.31
+86429,2022-08-04,4839,711,West,Cardiology,Standard,24898.21
+97922,2022-12-05,9551,949,West,Orthopedics,Standard,52856.38
+65766,2023-10-23,3376,918,East,Cardiology,High-Risk,39713.47
+23403,2025-01-09,4009,240,West,Cardiology,Standard,33298.13
+42097,2023-01-09,2827,182,East,General Surgery,Standard,72832.2
+88657,2024-09-02,7979,276,West,Orthopedics,Standard,65458.82
+20966,2023-12-11,9569,297,Midwest,Cardiology,High-Risk,65045.58
+62921,2025-05-08,5285,723,Midwest,Cardiology,Standard,61731.67
+59726,2023-04-11,7910,667,West,Cardiology,Standard,31476.66
+60300,2025-01-17,9561,790,West,General Surgery,High-Risk,43992.81
+32677,2025-07-15,3196,520,West,Cardiology,Standard,44907.45
+65609,2023-05-04,4747,500,West,Cardiology,High-Risk,24353.94
+66661,2022-02-16,9843,797,East,Cardiology,High-Risk,41644.98
+41024,2025-08-04,6978,570,West,Orthopedics,High-Risk,41808.53
+80313,2024-02-17,6607,317,West,Cardiology,High-Risk,51889.98
+63006,2024-11-05,1769,927,Midwest,General Surgery,Standard,87985.81
+25338,2023-12-12,1780,828,West,General Surgery,High-Risk,49686.56
+78027,2023-02-05,7303,731,West,Orthopedics,High-Risk,51897.72
+90135,2024-09-07,4983,274,West,Cardiology,High-Risk,46246.85
+29508,2025-01-14,9714,122,West,General Surgery,High-Risk,61065.69
+13051,2022-09-07,1521,824,West,Orthopedics,High-Risk,33891.24
+58747,2023-01-26,8569,334,East,Cardiology,Standard,78440.56
+97142,2022-12-01,6784,112,West,Orthopedics,High-Risk,48137.61
+97235,2023-09-21,5583,200,Midwest,Cardiology,Standard,44072.15
+64021,2022-05-17,6946,635,West,Cardiology,Standard,64550.56
+76412,2024-06-01,5941,975,East,Orthopedics,High-Risk,36636.16
+68335,2023-11-19,7267,622,West,Cardiology,Standard,60788.76
+66179,2024-04-06,8128,884,Midwest,Orthopedics,High-Risk,71077.55
+42093,2023-12-28,3461,551,East,Cardiology,High-Risk,46379.86
+79678,2023-08-17,1685,530,Midwest,General Surgery,High-Risk,80792.62
+90738,2025-05-31,3160,892,Midwest,General Surgery,Standard,59664.37
+49734,2024-09-16,8031,705,West,General Surgery,Standard,59850.41
+82615,2023-01-07,6341,812,Midwest,Cardiology,Standard,70487.98
+83523,2024-07-23,1038,632,Midwest,Cardiology,Standard,74461.02
+27019,2024-09-21,5875,951,Midwest,Orthopedics,Standard,53927.58
+93613,2023-02-06,2256,822,West,Cardiology,High-Risk,61953.58
+96672,2023-09-07,8697,751,East,Cardiology,Standard,70945.12
+83847,2025-07-20,3196,392,East,Orthopedics,High-Risk,32572.83
+92750,2025-03-28,8165,909,West,Orthopedics,High-Risk,24057.46
+89634,2025-03-21,1301,200,East,General Surgery,High-Risk,49136.69
+38251,2024-09-21,8527,601,West,Cardiology,High-Risk,23697.63
+35945,2023-09-12,7381,403,Midwest,Cardiology,Standard,45290.07
+42217,2022-07-07,1646,970,Midwest,Cardiology,Standard,54715.6
+18308,2025-01-26,9789,639,West,General Surgery,High-Risk,45865.42
+15949,2022-05-11,9853,652,Midwest,Orthopedics,Standard,47876.1
+61990,2024-03-15,5330,454,Midwest,General Surgery,Standard,34975.0
+11150,2025-04-09,8003,402,West,General Surgery,Standard,61822.15
+99480,2024-07-24,4537,595,East,Orthopedics,High-Risk,34048.05
+84740,2024-09-12,5558,757,West,Orthopedics,Standard,18456.47
+76617,2022-07-02,7579,867,West,Cardiology,Standard,46889.92
+26896,2024-09-09,9474,326,West,Orthopedics,Standard,63725.3
+56175,2022-12-30,5082,335,West,Orthopedics,Standard,51197.46
+17805,2022-02-08,5183,972,East,Orthopedics,High-Risk,32528.04
+15237,2023-05-12,9652,991,West,General Surgery,High-Risk,51529.26
+30056,2024-09-08,4754,554,Midwest,General Surgery,Standard,56574.56
+55543,2024-07-09,2724,112,West,Orthopedics,Standard,51354.75
+66556,2023-12-23,2376,309,Midwest,Orthopedics,High-Risk,46031.24
+13343,2025-03-30,9706,840,Midwest,Orthopedics,Standard,57290.58
+23500,2022-01-16,9894,496,Midwest,Cardiology,Standard,23923.6
+63222,2023-05-08,2653,199,Midwest,Cardiology,Standard,36590.67
+39375,2025-02-05,3066,130,Midwest,Orthopedics,Standard,30421.88
+19662,2024-06-12,1022,997,West,Orthopedics,Standard,70225.8
+26964,2022-11-07,3460,627,East,Cardiology,Standard,60680.48
+69638,2024-01-09,6926,748,West,General Surgery,Standard,52776.88
+83666,2025-04-08,7251,428,West,Cardiology,High-Risk,28240.68
+95067,2023-06-30,8295,265,East,Cardiology,High-Risk,61162.22
+77215,2023-02-18,4300,558,East,Orthopedics,High-Risk,70798.1
+79042,2022-09-08,7279,921,Midwest,Cardiology,High-Risk,58572.42
+23284,2024-01-29,9553,199,Midwest,Cardiology,High-Risk,49472.34
+82789,2025-03-10,8353,720,Midwest,Cardiology,High-Risk,59475.77
+94664,2025-07-21,4727,954,West,Orthopedics,Standard,54093.74
+71389,2024-11-28,7272,272,East,Cardiology,High-Risk,63891.14
+19435,2024-03-24,6995,848,East,Orthopedics,Standard,63555.28
+64340,2022-01-29,1514,261,East,Orthopedics,High-Risk,46684.02
+54078,2024-08-15,1448,827,East,Cardiology,Standard,40090.38
+88832,2023-04-22,7019,875,East,General Surgery,Standard,44002.66
+61293,2022-11-14,6343,362,Midwest,Cardiology,High-Risk,58037.76
+88781,2022-09-02,9033,903,West,General Surgery,Standard,44908.41
+70403,2024-01-18,3520,373,East,Orthopedics,Standard,38742.06
+39124,2023-11-28,4081,102,East,General Surgery,Standard,49985.7
+53919,2022-09-29,2428,127,West,Cardiology,Standard,66611.85
+45247,2025-06-16,4967,425,East,Orthopedics,Standard,52026.62
+72752,2023-01-12,7445,248,Midwest,Cardiology,Standard,45856.73
+66573,2022-09-23,3159,639,West,Cardiology,Standard,54806.48
+69101,2024-07-14,6132,587,West,Orthopedics,High-Risk,51260.59
+36646,2024-07-09,3547,921,East,Cardiology,Standard,20995.44
+33049,2022-12-06,3979,537,East,Orthopedics,Standard,60451.39
+89605,2023-01-24,3649,164,West,Cardiology,Standard,56111.88
+78385,2023-07-31,9505,455,West,Cardiology,High-Risk,50242.58
+50158,2022-01-03,4083,632,West,Orthopedics,Standard,65935.35
+75417,2025-03-11,2037,351,East,Cardiology,Standard,68194.99
+33289,2023-01-11,4489,334,West,Orthopedics,High-Risk,61981.53
+19823,2022-11-20,8604,326,West,Orthopedics,Standard,37245.49
+70160,2022-05-26,8544,624,Midwest,General Surgery,Standard,37764.33
+51975,2022-10-20,3634,412,East,Cardiology,Standard,66760.03
+19540,2023-03-08,4983,148,East,Orthopedics,Standard,21841.64
+26364,2023-12-06,2778,217,West,General Surgery,Standard,47767.29
+14611,2024-08-06,8902,153,West,Orthopedics,Standard,56597.39
+37663,2023-08-08,6110,749,West,Orthopedics,Standard,23743.88
+61991,2023-02-03,6189,664,West,Orthopedics,High-Risk,53515.15
+67679,2024-03-27,8378,143,West,Orthopedics,High-Risk,64316.44
+40977,2025-09-29,2124,914,Midwest,Orthopedics,Standard,27716.36
+59115,2024-08-21,1697,152,West,Cardiology,High-Risk,74872.55
+98223,2025-03-09,3179,685,Midwest,Cardiology,High-Risk,34852.55
+70890,2022-07-06,6251,657,West,General Surgery,Standard,58621.04
+76387,2022-03-02,2929,624,Midwest,Cardiology,High-Risk,48746.05
+28071,2024-07-27,2013,776,Midwest,Orthopedics,Standard,51042.73
+69275,2023-12-11,1226,201,East,Cardiology,High-Risk,30747.57
+82369,2024-03-17,8321,891,Midwest,Orthopedics,Standard,68907.09
+21938,2025-09-04,2828,869,East,Cardiology,Standard,54888.25
+45195,2025-08-18,8909,948,Midwest,Cardiology,High-Risk,74312.6
+14000,2025-09-29,6588,967,West,General Surgery,Standard,31138.74
+80588,2022-01-11,3023,497,East,General Surgery,High-Risk,47281.48
+48304,2024-12-21,5966,237,West,Orthopedics,Standard,53142.94
+79449,2022-08-14,6891,774,Midwest,Orthopedics,Standard,50905.75
+92986,2025-03-22,2080,486,East,Orthopedics,Standard,60001.78
+99643,2023-07-18,6036,210,West,Orthopedics,Standard,47091.22
+30764,2024-02-11,3563,713,West,Orthopedics,Standard,81830.39
+96027,2025-08-26,4292,116,Midwest,Cardiology,Standard,50597.63
+48494,2024-06-03,4586,879,West,Orthopedics,Standard,6737.68
+13373,2025-06-20,5431,281,East,Orthopedics,High-Risk,51263.02
+22161,2025-09-15,7841,983,East,General Surgery,Standard,68921.96
+37350,2025-02-04,7643,635,West,Cardiology,High-Risk,36150.41
+35351,2022-08-14,4959,640,West,Orthopedics,Standard,35198.67
+98668,2024-04-04,1161,270,Midwest,Orthopedics,High-Risk,37394.15
+25305,2022-08-06,1593,508,East,Cardiology,Standard,33852.85
+85353,2024-07-25,4390,839,West,Cardiology,High-Risk,42808.97
+86797,2024-01-23,6997,477,East,Cardiology,High-Risk,63639.46
+75953,2023-05-21,7354,287,East,Cardiology,Standard,72894.99
+67458,2022-09-16,1663,957,West,Cardiology,Standard,13636.25
+30358,2022-02-23,1541,329,West,Orthopedics,Standard,44323.18
+13267,2024-12-06,6433,932,West,Orthopedics,High-Risk,54540.47
+92745,2023-12-28,6093,951,Midwest,Orthopedics,High-Risk,53040.18
+99588,2023-11-20,1867,218,West,General Surgery,Standard,78499.09
+48513,2025-01-27,9623,255,Midwest,Cardiology,Standard,19839.59
+36092,2024-11-09,6469,883,Midwest,Cardiology,High-Risk,11164.04
+21338,2023-02-23,7256,786,West,Orthopedics,Standard,80933.19
+10412,2023-11-21,2169,564,Midwest,Cardiology,Standard,61301.51
+17543,2024-04-29,1830,203,West,Cardiology,Standard,41429.43
+43496,2022-03-03,2651,703,East,Cardiology,Standard,52573.98
+70692,2025-03-14,2136,797,West,Cardiology,Standard,53648.26
+99084,2022-08-04,3810,894,East,General Surgery,High-Risk,41067.19
+54425,2022-01-03,9667,601,West,Cardiology,High-Risk,52126.68
+48756,2022-06-09,2019,792,West,Orthopedics,Standard,55322.2
+28888,2024-02-20,6237,781,East,Cardiology,Standard,80232.95
+45735,2025-02-17,2283,798,East,Orthopedics,Standard,64451.77
+57295,2024-06-11,1659,274,Midwest,Cardiology,Standard,76089.85
+93042,2025-01-17,3010,833,West,Orthopedics,Standard,29846.43
+95999,2022-11-25,9590,844,East,Cardiology,Standard,44792.04
+27955,2023-08-03,2733,773,West,Cardiology,High-Risk,53633.7
+47841,2025-07-14,3125,520,West,Orthopedics,High-Risk,21183.49
+80640,2024-08-09,3171,233,West,Cardiology,Standard,67727.89
+75510,2025-09-08,9266,490,Midwest,Cardiology,Standard,59633.15
+44911,2023-09-27,4471,835,West,Cardiology,High-Risk,44492.62
+69031,2024-09-14,6624,600,East,General Surgery,Standard,47249.98
+98726,2025-05-03,9691,764,Midwest,Cardiology,Standard,68808.0
+17357,2024-07-09,9329,132,Midwest,Orthopedics,Standard,38068.43
+42479,2024-01-08,3097,154,East,Cardiology,High-Risk,69412.78
+71476,2025-09-17,6068,618,East,Cardiology,Standard,46219.42
+54811,2022-06-19,7397,855,East,Cardiology,High-Risk,61339.94
+46208,2023-06-05,3757,924,West,General Surgery,Standard,51301.46
+30150,2022-02-09,4920,737,West,Cardiology,High-Risk,83497.91
+81180,2025-07-08,9186,111,West,Cardiology,Standard,36689.11
+53286,2024-08-12,2900,627,Midwest,Cardiology,High-Risk,41400.76
+78450,2025-06-03,3610,819,Midwest,Cardiology,Standard,27408.12
+31352,2024-09-10,7900,654,East,Cardiology,Standard,33548.64
+65069,2025-02-21,2449,472,East,Orthopedics,High-Risk,60696.92
+24397,2024-09-01,9738,583,West,Cardiology,Standard,74002.45
+51555,2022-02-07,6017,746,East,Cardiology,High-Risk,62397.21
+56959,2022-11-24,8999,327,West,Orthopedics,Standard,49919.13
+10728,2025-06-28,7052,722,Midwest,Cardiology,Standard,36595.78
+60517,2025-04-14,3096,406,East,Cardiology,Standard,63476.28
+76234,2024-07-02,9895,556,West,Cardiology,Standard,35770.97
+49954,2023-03-30,7404,259,Midwest,Orthopedics,Standard,29765.72
+57280,2022-02-06,4331,430,West,Cardiology,Standard,45372.96
+89459,2025-09-01,8462,875,East,Orthopedics,High-Risk,19490.89
+26779,2024-08-30,6105,324,West,Cardiology,Standard,29279.23
+73932,2024-03-06,3978,828,East,Orthopedics,Standard,78289.86
+82936,2024-08-30,3839,603,Midwest,Cardiology,High-Risk,26497.87
+34466,2023-08-16,4384,555,East,Orthopedics,Standard,32177.77
+46939,2025-02-11,1685,144,West,General Surgery,High-Risk,51077.49
+79896,2024-11-29,8531,313,West,Orthopedics,Standard,51858.56
+45270,2025-08-17,5283,158,Midwest,Cardiology,High-Risk,46480.64
+69163,2022-08-12,8736,743,East,Cardiology,Standard,19949.39
+92637,2022-11-14,8710,715,East,Cardiology,Standard,62727.34
+61934,2022-12-15,2619,294,East,Cardiology,High-Risk,43354.2
+74895,2022-04-25,7868,588,East,Cardiology,High-Risk,68306.74
+42307,2023-11-29,2431,256,East,Orthopedics,Standard,40327.74
+64098,2025-09-08,5713,709,West,Cardiology,Standard,64737.42
+70921,2024-11-29,5998,325,East,Cardiology,High-Risk,69441.25
+15486,2022-02-09,1162,511,East,Orthopedics,High-Risk,42995.87
+18335,2025-08-05,2974,304,Midwest,Orthopedics,Standard,63206.75
+96900,2025-07-09,4291,178,East,Cardiology,Standard,30071.83
+99112,2022-08-04,9461,223,East,General Surgery,Standard,53955.34
+21130,2025-03-16,1631,570,East,Cardiology,Standard,68333.42
+97508,2022-12-02,1905,317,Midwest,Orthopedics,High-Risk,57777.39
+70566,2025-04-06,3014,615,East,Orthopedics,Standard,86093.36
+76703,2022-04-02,8896,701,Midwest,Orthopedics,Standard,58615.37
+37192,2022-12-19,1204,203,Midwest,Orthopedics,High-Risk,44520.93
+11062,2023-07-25,1581,492,East,Cardiology,Standard,92613.3
+94076,2024-03-26,6675,730,Midwest,Cardiology,Standard,74505.52
+99780,2024-02-20,6347,744,East,Orthopedics,Standard,25956.39
+31545,2022-12-29,3643,923,East,Cardiology,Standard,38237.55
+31689,2023-07-11,9017,707,Midwest,General Surgery,High-Risk,34427.63
+21174,2025-09-30,3297,533,West,Cardiology,Standard,59684.44
+98461,2025-04-08,1874,430,West,Cardiology,Standard,58567.37
+19348,2022-12-22,6560,242,East,Cardiology,High-Risk,58451.78
+33714,2022-07-10,1689,899,West,Cardiology,Standard,25551.36
+48102,2023-02-26,5000,639,Midwest,Orthopedics,Standard,40428.63
+84460,2023-12-01,1671,377,East,Orthopedics,Standard,47760.72
+99930,2022-01-07,8927,332,East,Orthopedics,Standard,22671.19
+16801,2022-05-13,2171,628,East,General Surgery,Standard,36922.58
+82267,2023-07-11,6591,670,East,General Surgery,Standard,70346.51
+58136,2024-04-05,7342,189,Midwest,General Surgery,Standard,26688.86
+33625,2024-01-31,2449,591,West,Cardiology,Standard,71828.91
+92873,2024-11-20,3539,298,Midwest,Orthopedics,High-Risk,66367.24
+82592,2023-06-19,4959,461,East,Cardiology,Standard,45638.94
+87052,2023-03-02,7285,540,West,Cardiology,Standard,40266.91
+54261,2023-11-03,6432,125,East,Orthopedics,Standard,62477.41
+11542,2022-12-29,5260,124,East,Cardiology,Standard,38183.9
+31677,2022-03-23,3361,493,East,Cardiology,Standard,38930.03
+56732,2022-12-22,7164,606,East,Cardiology,Standard,49641.97
+60343,2025-07-05,4670,400,West,Cardiology,High-Risk,18046.5
+49081,2023-08-12,2753,438,Midwest,General Surgery,High-Risk,28250.37
+72856,2022-10-22,9100,366,West,Cardiology,Standard,45265.08
+98858,2025-06-01,2938,560,East,Cardiology,Standard,57135.44
+29065,2024-12-05,9562,792,East,Cardiology,High-Risk,37976.39
+93460,2025-02-10,6976,555,East,Cardiology,High-Risk,47035.84
+98092,2025-06-10,7588,459,West,General Surgery,Standard,25798.11
+64693,2022-01-17,9616,167,Midwest,Cardiology,Standard,63987.26
+36962,2022-12-26,7304,962,Midwest,Orthopedics,Standard,53301.23
+38295,2025-05-31,8345,511,East,Orthopedics,Standard,54628.19
+23807,2024-05-15,8875,590,West,General Surgery,High-Risk,57323.76
+52348,2023-12-01,7633,932,West,Orthopedics,Standard,51171.91
+36432,2023-03-24,1597,148,West,General Surgery,Standard,42743.41
+93285,2024-05-05,4062,786,West,Cardiology,Standard,66944.82
+67854,2022-12-31,3336,663,West,Cardiology,High-Risk,52353.22
+50262,2023-11-06,1572,201,West,Cardiology,High-Risk,47514.21
+47080,2024-10-04,8521,315,East,General Surgery,High-Risk,49870.18
+11324,2025-09-11,7171,537,Midwest,Cardiology,Standard,49550.52
+45909,2023-04-12,8097,799,East,Cardiology,Standard,47363.52
+99339,2023-02-18,3090,668,West,Cardiology,Standard,56691.6
+29870,2023-08-09,7566,658,West,Cardiology,Standard,35962.1
+44578,2025-06-10,5624,258,West,Cardiology,Standard,37058.13
+82124,2025-06-01,2633,588,Midwest,General Surgery,Standard,58388.96
+36790,2024-09-20,2517,785,Midwest,Cardiology,High-Risk,47821.41
+35289,2023-07-26,4648,341,Midwest,Orthopedics,Standard,64570.9
+65129,2022-12-01,2537,893,West,Orthopedics,Standard,56133.19
+25485,2025-05-30,4137,852,West,Cardiology,Standard,41710.58
+54482,2022-02-06,7985,981,West,Cardiology,Standard,58626.45
+96188,2024-09-15,1097,104,Midwest,Cardiology,Standard,67957.86
+14748,2022-10-05,4750,695,West,Cardiology,Standard,56704.69
+96769,2025-05-04,9535,919,Midwest,Orthopedics,Standard,59983.77
+19435,2024-07-04,9174,460,Midwest,Cardiology,Standard,47423.44
+13709,2023-04-29,9103,558,West,Cardiology,Standard,64895.6
+40355,2025-06-19,6413,347,East,Orthopedics,Standard,41289.64
+65771,2025-09-09,5666,665,East,General Surgery,High-Risk,55078.15
+67799,2024-01-01,1610,772,Midwest,General Surgery,Standard,88542.59
+23116,2022-07-11,2727,521,East,General Surgery,Standard,58083.22
+35470,2024-11-06,2854,837,Midwest,Orthopedics,High-Risk,43689.33
+52344,2023-06-08,6055,114,West,Cardiology,High-Risk,43650.62
+52918,2024-07-06,3324,835,West,Orthopedics,High-Risk,48929.87
+62224,2023-02-05,6774,672,Midwest,Cardiology,Standard,62768.69
+49298,2024-06-04,7519,221,West,Orthopedics,Standard,52186.66
+90219,2023-12-06,2749,376,West,Orthopedics,Standard,40272.08
+71629,2022-01-22,1781,657,West,Cardiology,Standard,40245.55
+76040,2023-04-19,8548,552,East,Orthopedics,Standard,52280.74
+38016,2025-02-17,7823,489,Midwest,General Surgery,Standard,50635.92
+33960,2022-07-29,3105,393,East,Cardiology,Standard,56824.64
+43591,2022-11-02,4867,673,Midwest,General Surgery,Standard,63762.35
+92848,2025-07-17,8193,697,Midwest,Cardiology,High-Risk,90910.4
+77641,2023-12-05,5976,545,East,Orthopedics,Standard,28069.5
+46395,2023-11-18,3113,309,West,Orthopedics,Standard,60302.93
+32700,2022-10-12,6879,689,West,Orthopedics,Standard,51474.62
+44620,2023-12-17,4970,813,East,General Surgery,Standard,22331.36
+30559,2024-02-02,8264,401,Midwest,General Surgery,Standard,68742.96
+71642,2025-06-04,2577,322,East,Orthopedics,High-Risk,56317.6
+86539,2024-08-05,3274,833,East,Cardiology,Standard,61997.09
+31732,2023-01-16,5869,102,West,General Surgery,High-Risk,24508.72
+40354,2023-04-05,7744,617,West,Cardiology,Standard,46693.75
+23843,2024-10-27,3426,192,West,General Surgery,Standard,33812.05
+81726,2022-01-29,6546,619,Midwest,Cardiology,Standard,82446.51
+27640,2024-06-25,7852,527,West,Cardiology,Standard,67168.26
+62528,2024-11-22,3551,592,West,Orthopedics,Standard,39785.48
+48413,2024-05-28,7411,334,East,Cardiology,Standard,26950.42
+62638,2022-03-20,1007,719,East,Cardiology,Standard,52910.83
+62736,2024-08-04,9087,260,East,Cardiology,Standard,66386.33
+78866,2023-04-04,3555,820,East,Cardiology,Standard,23974.2
+29087,2023-07-24,1475,851,West,Cardiology,Standard,36023.38
+51430,2024-01-08,6416,430,East,Cardiology,High-Risk,33416.23
+34504,2025-08-01,9676,432,East,Cardiology,Standard,63004.19
+17114,2023-05-31,8239,149,East,Cardiology,Standard,44452.56
+88859,2025-01-27,7710,622,Midwest,Orthopedics,Standard,45080.95
+20975,2023-02-01,6000,962,Midwest,Cardiology,High-Risk,52619.82
+21023,2022-02-08,5654,767,West,General Surgery,Standard,36825.79
+31447,2025-07-18,9078,591,Midwest,General Surgery,High-Risk,28344.7
+33959,2024-06-05,7063,681,Midwest,Cardiology,High-Risk,70545.28
+76203,2024-03-07,3285,780,West,Orthopedics,Standard,71937.29
+39703,2022-06-06,6223,371,East,General Surgery,Standard,52693.74
+19337,2025-01-03,7971,679,Midwest,General Surgery,High-Risk,53782.33
+56427,2024-06-02,4525,966,West,Orthopedics,Standard,68915.21
+71529,2025-02-27,3822,351,West,Cardiology,Standard,52349.8
+94665,2024-08-31,5943,659,Midwest,Orthopedics,Standard,43713.83
+41921,2025-01-12,7530,795,West,Orthopedics,High-Risk,50590.09
+43307,2024-11-11,1258,931,West,Orthopedics,Standard,70897.53
+37355,2024-04-28,1282,798,Midwest,Cardiology,Standard,50799.83
+14835,2024-01-18,2898,189,East,General Surgery,Standard,39959.26
+30159,2024-09-15,5135,545,West,General Surgery,Standard,52205.03
+57605,2022-01-21,7629,431,West,Cardiology,Standard,59843.35
+48088,2022-10-30,4200,238,West,Cardiology,High-Risk,58043.8
+88752,2024-05-18,6110,456,Midwest,Cardiology,Standard,58292.36
+65284,2022-03-25,8167,700,East,General Surgery,Standard,37599.83
+67043,2025-07-04,1612,373,West,Orthopedics,Standard,61551.55
+45547,2023-07-24,1687,118,East,Orthopedics,Standard,50426.99
+92844,2024-07-22,4690,410,West,Cardiology,High-Risk,39323.13
+37532,2025-03-31,9804,969,West,Orthopedics,Standard,61432.28
+44349,2025-04-01,3307,985,Midwest,Cardiology,Standard,43195.42
+55445,2024-10-05,8133,253,East,Orthopedics,Standard,26385.54
+15713,2024-03-03,7509,489,West,Orthopedics,Standard,34990.96
+66178,2024-03-02,6906,359,East,General Surgery,Standard,47275.45
+59407,2025-07-18,3591,719,Midwest,General Surgery,Standard,58674.53
+80340,2023-05-07,8183,982,Midwest,General Surgery,High-Risk,37038.95
+60990,2022-07-27,6248,896,Midwest,Cardiology,Standard,46390.06
+85672,2024-12-19,9766,670,Midwest,Orthopedics,Standard,31750.89
+75545,2023-03-06,6108,224,Midwest,Orthopedics,Standard,64730.49
+94791,2024-09-11,4604,453,East,General Surgery,Standard,75759.97
+68141,2025-08-25,1669,372,East,Cardiology,Standard,74139.24
+33793,2023-06-04,5364,718,West,Cardiology,High-Risk,64474.69
+66570,2023-08-14,8329,910,Midwest,Cardiology,High-Risk,62937.65
+47892,2024-11-16,2283,344,Midwest,Orthopedics,Standard,18921.81
+11015,2022-07-18,1923,947,East,Cardiology,High-Risk,52657.6
+71813,2023-01-22,2125,549,Midwest,Cardiology,Standard,42558.61
+37712,2022-12-15,2529,346,West,Cardiology,High-Risk,63207.0
+18415,2024-08-17,9438,619,West,Cardiology,Standard,11936.03
+72292,2023-11-24,4711,240,East,General Surgery,Standard,52894.52
+33833,2023-01-13,9004,461,East,Cardiology,High-Risk,46783.34
+14158,2024-06-17,7274,107,West,Orthopedics,Standard,66776.45
+72680,2024-07-04,4864,577,West,Orthopedics,High-Risk,73219.81
+30309,2023-06-11,8833,451,East,General Surgery,Standard,36067.31
+16970,2025-03-22,7788,594,West,Cardiology,High-Risk,36744.34
+82474,2024-01-04,1226,705,Midwest,General Surgery,Standard,53457.45
+96704,2022-07-25,1264,932,Midwest,Orthopedics,Standard,76006.44
+56540,2023-03-31,1645,526,Midwest,General Surgery,High-Risk,50902.17
+30384,2025-07-20,8544,138,East,General Surgery,High-Risk,30812.58
+28017,2025-06-13,6569,692,East,Cardiology,Standard,40911.97
+85880,2023-06-05,3990,286,West,Cardiology,High-Risk,53039.96
+18702,2024-10-13,3504,695,West,Cardiology,Standard,53603.04
+10384,2024-08-13,1587,699,East,Orthopedics,Standard,39438.69
+10404,2023-12-27,5079,853,East,Cardiology,Standard,40613.14
+50943,2024-10-10,4348,953,West,Cardiology,Standard,35276.48
+57926,2023-05-16,7299,192,East,Orthopedics,Standard,67117.57
+39189,2022-04-27,4831,185,East,Cardiology,Standard,37478.37
+22763,2023-01-21,9381,143,East,Cardiology,Standard,43028.09
+28384,2025-09-29,2715,236,East,Cardiology,High-Risk,42601.21
+70100,2023-08-07,7450,520,West,Cardiology,High-Risk,25910.64
+19860,2023-01-30,6433,173,West,Cardiology,Standard,37048.77
+90642,2024-12-23,2098,647,West,Orthopedics,Standard,68422.06
+60612,2023-12-22,8096,712,East,Orthopedics,High-Risk,31860.68
+33574,2022-03-13,3326,611,East,General Surgery,Standard,35545.37
+33524,2022-10-01,7416,255,West,Orthopedics,Standard,30011.81
+79172,2025-09-05,7980,354,West,Orthopedics,High-Risk,48640.83
+20916,2022-12-04,7763,270,West,Cardiology,Standard,78282.15
+14809,2023-08-30,2674,827,East,General Surgery,High-Risk,48009.59
+42201,2022-06-15,8950,269,Midwest,General Surgery,Standard,51001.43
+63330,2022-01-11,9915,863,East,General Surgery,High-Risk,38068.29
+23456,2025-08-17,7049,971,West,Orthopedics,Standard,49075.73
+66397,2023-12-30,2089,421,West,Cardiology,High-Risk,68435.75
+48765,2024-03-11,5578,666,West,Cardiology,Standard,52143.64
+44816,2022-04-12,1155,555,East,Cardiology,Standard,81976.55
+55106,2024-02-18,2958,702,West,General Surgery,High-Risk,68892.2
+63932,2022-08-02,7344,889,Midwest,Orthopedics,Standard,48705.25
+27100,2025-01-16,6779,712,East,Orthopedics,Standard,48413.18
+67091,2023-02-05,7144,254,East,Cardiology,High-Risk,74463.85
+31949,2023-08-11,6063,988,East,General Surgery,Standard,52059.88
+80080,2024-06-07,4830,448,Midwest,Cardiology,Standard,71133.82
+47744,2024-12-05,9831,550,East,Cardiology,Standard,80043.61
+55543,2023-08-15,7659,975,Midwest,Cardiology,Standard,46936.71
+46187,2025-08-26,1441,752,West,Orthopedics,Standard,55279.33
+17239,2025-01-14,7040,272,Midwest,Orthopedics,High-Risk,64700.06
+24489,2022-04-02,6925,109,Midwest,General Surgery,Standard,61512.5
+68017,2023-11-04,8358,839,West,Cardiology,Standard,61407.36
+71877,2023-12-15,5628,364,East,Orthopedics,Standard,29997.89
+53125,2024-07-24,7370,537,East,Orthopedics,Standard,37273.75
+59922,2022-08-30,1948,859,East,Cardiology,Standard,42570.99
+42049,2022-01-02,9179,346,West,General Surgery,High-Risk,68216.31
+47131,2022-08-13,7115,766,East,Orthopedics,High-Risk,31469.38
+52944,2024-03-11,1459,645,East,Orthopedics,High-Risk,72848.4
+83963,2023-08-12,8568,598,West,General Surgery,High-Risk,61697.51
+34285,2022-04-26,5646,228,Midwest,Orthopedics,Standard,67313.45
+47626,2024-07-06,1392,771,East,Cardiology,High-Risk,36057.0
+52808,2025-01-31,2787,700,East,Orthopedics,High-Risk,51084.54
+98464,2022-07-13,8374,704,East,Cardiology,High-Risk,54484.14
+63871,2025-04-04,2138,426,Midwest,Cardiology,High-Risk,53824.51
+29198,2024-05-20,5741,852,West,Cardiology,High-Risk,54434.86
+29758,2022-03-31,8418,934,East,Orthopedics,High-Risk,45852.1
+25254,2022-05-02,7362,503,East,Orthopedics,Standard,52028.11
+54238,2022-05-23,3454,728,East,Cardiology,Standard,65503.46
+11252,2024-09-20,4674,705,East,Orthopedics,High-Risk,32502.32
+49764,2022-04-16,2377,774,Midwest,General Surgery,Standard,73205.75
+87709,2024-06-05,7701,710,Midwest,Cardiology,Standard,64728.48
+47441,2023-03-04,3597,724,West,Cardiology,High-Risk,35521.97
+63682,2025-08-21,1141,458,Midwest,Orthopedics,High-Risk,55757.54
+69494,2022-11-13,3659,702,East,Cardiology,Standard,63522.48
+91317,2023-09-27,5596,957,West,Orthopedics,Standard,31470.6
+75215,2022-01-09,6661,817,Midwest,Cardiology,High-Risk,50629.68
+88587,2024-02-13,7142,116,East,Orthopedics,High-Risk,48822.27
+16949,2025-01-01,6626,373,Midwest,Orthopedics,Standard,40316.29
+65393,2022-08-11,9787,784,East,Orthopedics,High-Risk,51385.35
+83553,2023-07-07,9472,215,East,General Surgery,High-Risk,40995.7
+16941,2023-12-17,1423,960,East,General Surgery,Standard,70614.61
+35934,2025-07-11,7999,792,West,Orthopedics,Standard,40600.34
+33386,2025-09-03,5249,190,West,Orthopedics,Standard,61879.68
+71886,2025-01-12,2750,181,Midwest,Cardiology,Standard,25169.2
+85745,2025-09-03,5757,423,West,Orthopedics,High-Risk,47572.85
+93251,2022-04-21,2967,213,Midwest,Cardiology,High-Risk,50184.67
+63413,2022-09-08,5088,868,Midwest,General Surgery,Standard,47085.63
+66800,2023-01-18,5178,157,East,Cardiology,High-Risk,44055.23
+52318,2022-01-07,8789,253,West,Orthopedics,Standard,39987.27
+80173,2023-04-04,3946,976,East,Cardiology,Standard,61318.11
+80390,2025-01-12,6394,503,West,Orthopedics,Standard,64991.87
+62329,2022-07-27,8880,727,Midwest,General Surgery,High-Risk,48767.59
+53088,2024-06-18,6075,954,East,Cardiology,Standard,33550.44
+49811,2025-08-30,8230,365,West,General Surgery,Standard,76909.24
+65479,2022-01-22,2531,414,West,Cardiology,Standard,36803.04
+95392,2023-02-14,3990,814,West,Orthopedics,High-Risk,28108.67
+97369,2024-06-13,8155,140,East,General Surgery,High-Risk,19810.67
+29963,2023-05-30,5493,204,East,Cardiology,High-Risk,51491.78
+65123,2025-02-24,1933,989,East,General Surgery,Standard,46738.75
+83477,2024-03-19,2460,292,East,Cardiology,Standard,65464.35
+24388,2024-05-23,3723,500,East,Cardiology,Standard,59166.27
+15569,2022-01-14,1285,377,West,General Surgery,Standard,54353.02
+79836,2024-08-28,1264,453,East,Cardiology,High-Risk,45929.49
+46586,2024-09-04,7816,848,Midwest,General Surgery,Standard,66649.66
+22015,2024-10-10,2762,832,West,General Surgery,High-Risk,78010.85
+55002,2024-11-01,1040,679,West,Cardiology,Standard,65134.69
+16254,2022-03-28,6827,808,West,Orthopedics,Standard,43047.03
+27144,2024-06-27,9259,355,West,Cardiology,Standard,61723.48
+34214,2025-08-17,1987,750,Midwest,Cardiology,Standard,43968.65
+90719,2025-06-20,8804,923,East,Cardiology,High-Risk,33423.99
+81774,2022-05-02,8789,760,East,Cardiology,High-Risk,36514.41
+16090,2025-03-16,6717,198,Midwest,Cardiology,Standard,44627.32
+21637,2024-01-20,4198,687,East,Cardiology,Standard,51559.4
+32415,2023-11-16,6374,381,East,General Surgery,High-Risk,80908.72
+34071,2022-11-05,5790,982,East,General Surgery,High-Risk,36774.66
+68243,2023-11-26,8183,502,East,Orthopedics,Standard,69852.33
+51240,2022-10-15,3524,208,West,Orthopedics,High-Risk,45241.11
+93807,2022-11-03,3479,799,East,General Surgery,Standard,19754.23
+43434,2024-07-02,6154,298,Midwest,Cardiology,Standard,42414.11
+79724,2023-10-24,1778,402,Midwest,Orthopedics,High-Risk,67650.45
+85697,2023-07-03,2492,426,West,General Surgery,High-Risk,55170.04
+38732,2022-11-08,1660,253,West,Cardiology,Standard,56066.77
+21314,2024-05-22,2348,651,Midwest,Orthopedics,Standard,69927.56
+33954,2024-12-18,8851,744,East,General Surgery,Standard,34454.96
+67108,2024-07-12,8156,504,Midwest,General Surgery,Standard,34223.74
+97044,2024-01-25,3044,561,Midwest,Orthopedics,High-Risk,16044.07
+97505,2022-02-04,8368,231,West,Cardiology,Standard,63156.23
+46668,2023-03-21,4516,890,West,Cardiology,Standard,58437.26
+33061,2022-04-03,5577,973,East,Cardiology,High-Risk,60859.5
+89252,2025-05-15,1727,183,West,Orthopedics,Standard,32254.83
+49749,2022-12-19,8468,498,Midwest,Cardiology,High-Risk,25936.27
+26907,2024-06-21,1342,853,East,General Surgery,High-Risk,30205.73
+28777,2025-09-17,2447,727,Midwest,Cardiology,High-Risk,36161.42
+61745,2024-05-11,7581,208,East,Cardiology,Standard,73309.38
+91818,2022-06-08,7317,320,East,Orthopedics,Standard,65001.9
+33624,2024-08-14,1526,652,East,Orthopedics,Standard,43126.69
+33321,2022-01-24,7748,467,East,Cardiology,Standard,54488.78
+20488,2023-02-08,1405,246,West,Cardiology,Standard,39824.57
+32574,2024-03-15,8986,211,East,Orthopedics,High-Risk,55464.2
+15240,2023-05-31,4740,714,Midwest,Cardiology,High-Risk,32928.56
+53221,2024-01-02,2846,657,West,Cardiology,High-Risk,61253.77
+20478,2023-06-16,2478,593,East,General Surgery,High-Risk,37254.45
+65645,2024-08-13,1771,604,West,Orthopedics,Standard,62088.73
+29262,2022-06-01,6525,574,Midwest,Cardiology,Standard,43588.66
+62796,2024-08-04,9770,935,West,General Surgery,Standard,38148.86
+14432,2023-08-31,1193,989,East,General Surgery,High-Risk,74194.95
+74291,2023-02-24,3007,370,Midwest,Orthopedics,Standard,52654.19
+89104,2025-06-27,2185,520,Midwest,Orthopedics,Standard,45167.28
+69399,2025-02-14,3394,996,East,General Surgery,High-Risk,61372.67
+89714,2024-05-15,5005,806,East,General Surgery,Standard,29900.13
+60428,2023-08-01,8429,466,West,Orthopedics,Standard,66602.95
+97731,2022-12-01,3261,379,East,Cardiology,Standard,47908.33
+10302,2024-07-20,4736,382,Midwest,Orthopedics,Standard,59011.82
+92558,2022-10-22,7716,139,East,Orthopedics,Standard,26781.9
+10055,2024-01-25,5875,288,Midwest,Cardiology,High-Risk,44263.61
+18717,2022-07-05,9921,263,West,Cardiology,Standard,50068.7
+38699,2025-06-23,5378,635,East,General Surgery,High-Risk,65454.49
+83686,2023-09-29,8815,635,East,Orthopedics,High-Risk,60206.17
+77661,2025-07-15,4451,103,West,Cardiology,Standard,44112.84
+54247,2025-06-14,8616,934,Midwest,Orthopedics,Standard,54769.22
+26748,2023-06-14,3800,389,Midwest,Cardiology,Standard,68848.54
+14621,2022-01-21,9333,532,East,Cardiology,Standard,47000.17
+25034,2024-06-29,6410,570,East,Orthopedics,Standard,45367.03
+15126,2024-05-16,2455,280,East,Cardiology,Standard,21654.43
+15122,2024-03-04,7892,347,West,Cardiology,Standard,45813.91
+28030,2022-04-10,6808,727,East,General Surgery,High-Risk,23905.59
+92838,2024-01-22,7796,378,West,Cardiology,Standard,48284.98
+94717,2023-04-23,5796,976,West,Cardiology,High-Risk,64822.03
+65658,2025-08-14,6093,680,Midwest,General Surgery,Standard,18205.41
+48638,2024-07-28,2325,962,East,Orthopedics,High-Risk,68513.13
+77067,2023-06-10,5976,353,East,Orthopedics,Standard,45046.65
+98869,2022-11-30,2159,280,West,General Surgery,High-Risk,49592.53
+44674,2022-01-02,5650,929,West,Cardiology,Standard,42463.7
+45854,2023-01-10,5987,780,East,Orthopedics,Standard,24301.45
+56271,2022-10-20,5697,924,Midwest,Orthopedics,High-Risk,38255.16
+83688,2024-04-16,1340,608,Midwest,General Surgery,Standard,81461.15
+48518,2024-10-01,4828,860,East,Orthopedics,Standard,33559.32
+20267,2023-07-07,2968,799,East,Orthopedics,Standard,26171.86
+11062,2022-11-14,1703,665,West,Orthopedics,High-Risk,52119.37
+60448,2023-01-16,6482,425,Midwest,Orthopedics,Standard,48713.35
+16229,2022-01-14,7376,456,East,Orthopedics,Standard,45150.05
+66793,2023-05-19,2800,924,West,Orthopedics,Standard,50216.72
+57915,2022-08-19,6463,749,West,Orthopedics,High-Risk,59663.04
+14632,2025-01-12,5912,779,East,Orthopedics,Standard,41192.55
+13596,2022-05-10,5648,490,West,Orthopedics,Standard,52916.15
+16168,2024-04-17,1855,714,Midwest,Orthopedics,Standard,65358.12
+17561,2025-03-14,3866,184,East,General Surgery,Standard,35070.67
+83794,2024-06-09,1182,416,East,Orthopedics,Standard,15167.28
+92152,2022-01-28,4112,311,West,General Surgery,High-Risk,60062.13
+36734,2022-03-07,6670,614,Midwest,General Surgery,Standard,87544.44
+16371,2025-04-01,5492,483,Midwest,Orthopedics,Standard,49889.68
+36069,2025-06-06,6823,790,West,Orthopedics,High-Risk,53028.98
+89905,2022-09-18,2517,441,Midwest,General Surgery,Standard,45562.87
+22910,2023-04-05,6002,914,West,Orthopedics,High-Risk,73820.91
+83479,2022-10-28,2356,943,West,General Surgery,Standard,48833.65
+87735,2024-07-07,4629,137,East,Orthopedics,Standard,47201.54
+91264,2025-08-19,4628,610,East,Orthopedics,High-Risk,63662.96
+33275,2022-10-14,9210,519,East,Cardiology,Standard,42735.91
+82274,2024-10-30,7132,850,West,Cardiology,Standard,30729.59
+91449,2023-09-22,7588,268,East,General Surgery,High-Risk,63234.51
+70004,2022-09-27,4311,442,Midwest,Orthopedics,Standard,41126.79
+72981,2023-08-15,7048,925,East,Orthopedics,Standard,35368.1
+94659,2024-04-23,7246,405,East,General Surgery,Standard,81500.72
+64553,2024-05-11,1987,641,West,Orthopedics,High-Risk,47321.05
+58447,2025-07-04,4321,801,West,Orthopedics,Standard,57413.39
+44529,2022-05-13,5615,968,East,Orthopedics,High-Risk,50442.92
+85703,2025-07-23,9365,636,East,Orthopedics,Standard,36705.21
+86090,2024-08-29,4741,211,Midwest,Cardiology,High-Risk,60341.5
+27260,2023-05-28,4052,510,East,Orthopedics,Standard,54718.68
+13812,2022-11-09,7574,305,East,Orthopedics,Standard,40109.3
+38024,2023-07-30,1726,284,Midwest,Cardiology,Standard,56497.86
+68656,2024-06-04,4760,481,East,Orthopedics,Standard,42285.35
+37285,2025-07-31,6806,595,West,Cardiology,High-Risk,33432.57
+11605,2025-02-18,2875,478,East,Cardiology,High-Risk,31914.99
+81158,2025-02-04,7993,146,East,Cardiology,Standard,54050.88
+82303,2023-11-18,5033,985,East,Cardiology,Standard,44259.04
+37139,2025-05-12,6443,839,East,Orthopedics,High-Risk,72525.56
+87149,2022-06-14,1989,650,East,General Surgery,Standard,49355.63
+66138,2022-11-01,4744,627,East,Orthopedics,Standard,38221.95
+86125,2022-06-05,9611,603,Midwest,Cardiology,Standard,52367.26
+23918,2023-09-12,1593,121,East,Cardiology,High-Risk,30585.99
+95655,2025-06-28,2774,312,West,Cardiology,High-Risk,48738.03
+37446,2024-08-14,1935,409,Midwest,Orthopedics,High-Risk,54787.5
+23046,2022-11-30,4808,760,West,Cardiology,Standard,52935.08
+34818,2024-08-26,1331,852,East,Orthopedics,Standard,69542.0
+14324,2023-05-26,8922,371,Midwest,Cardiology,Standard,88962.76
+86323,2025-08-09,3702,670,East,General Surgery,Standard,60070.96
+19111,2024-11-09,6889,898,East,Cardiology,Standard,67681.94
+48110,2022-10-09,6054,301,Midwest,Cardiology,Standard,88151.94
+26389,2024-03-07,4868,131,West,General Surgery,Standard,34906.61
+51427,2024-10-21,5200,542,West,Cardiology,High-Risk,51959.41
+89579,2022-04-29,1201,261,East,Cardiology,Standard,42830.05
+38746,2024-11-24,3497,866,West,Orthopedics,Standard,62639.87
+97886,2022-07-17,2842,353,East,Orthopedics,High-Risk,54074.28
+10117,2023-04-30,5658,620,Midwest,Orthopedics,Standard,37723.52
+94471,2024-12-18,8544,750,East,Cardiology,High-Risk,50164.22
+23234,2024-04-16,8718,579,Midwest,Cardiology,Standard,65703.84
+63441,2025-03-30,1770,109,West,Cardiology,Standard,30444.13
+10846,2024-10-05,4155,825,Midwest,Cardiology,Standard,38039.83
+20954,2023-11-22,2628,604,West,General Surgery,Standard,35790.87
+89239,2025-05-14,1386,884,West,Orthopedics,High-Risk,54895.95
+56514,2024-11-01,7031,935,East,Cardiology,Standard,68607.74
+98236,2023-05-05,7439,659,East,Orthopedics,High-Risk,19853.98
+16469,2022-10-03,7401,535,East,Cardiology,Standard,51415.98
+40105,2023-11-24,5008,210,Midwest,General Surgery,Standard,36136.69
+52101,2022-08-30,3466,252,Midwest,Cardiology,Standard,65081.04
+74323,2025-05-24,3282,734,West,Cardiology,Standard,46445.48
+68067,2025-06-28,2856,968,East,Orthopedics,Standard,51960.11
+59376,2022-05-06,8980,201,East,Orthopedics,Standard,49979.95
+55587,2022-08-05,2998,852,West,Orthopedics,Standard,66863.28
+46976,2025-08-22,6476,932,West,Cardiology,Standard,80729.47
+77584,2025-04-23,5669,290,Midwest,Cardiology,High-Risk,32980.02
+88477,2024-11-28,5318,828,Midwest,Orthopedics,Standard,35711.66
+52533,2025-05-31,8064,662,East,Cardiology,Standard,54822.47
+11828,2025-04-22,8446,903,West,General Surgery,High-Risk,37753.96
+11917,2023-05-10,2431,180,West,Cardiology,Standard,64003.76
+30618,2023-03-03,6624,588,East,Orthopedics,High-Risk,66411.76
+42254,2025-04-16,8461,994,East,Orthopedics,Standard,41801.36
+57362,2024-07-07,2819,187,East,Cardiology,High-Risk,38546.94
+30128,2025-08-10,2130,293,Midwest,Orthopedics,Standard,45878.31
+69383,2022-05-31,7563,203,West,General Surgery,High-Risk,51560.27
+75545,2023-01-19,3658,882,West,Cardiology,Standard,54722.56
+92180,2022-11-04,4500,195,Midwest,General Surgery,Standard,16207.74
+97958,2025-09-21,9566,522,Midwest,Orthopedics,Standard,35488.17
+19865,2024-01-16,3120,990,East,Cardiology,Standard,43938.51
+12219,2024-06-10,5020,297,West,Cardiology,Standard,38045.16
+49809,2023-01-10,4259,100,West,Cardiology,High-Risk,7029.35
+15287,2024-10-28,2823,506,Midwest,Orthopedics,High-Risk,21674.41
+44387,2025-09-26,2474,477,West,Orthopedics,Standard,30419.62
+18512,2022-05-09,3242,266,West,General Surgery,Standard,48270.74
+11342,2024-10-11,4243,608,East,General Surgery,High-Risk,43456.97
+73076,2023-10-31,7990,737,Midwest,Orthopedics,Standard,40526.46
+29216,2023-06-01,6160,412,East,Orthopedics,High-Risk,61947.72
+89767,2022-03-27,4134,692,East,Cardiology,High-Risk,61942.0
+36614,2025-04-13,3070,517,East,Orthopedics,Standard,52248.78
+46258,2025-05-01,1359,862,East,Cardiology,Standard,51801.8
+52078,2022-11-07,2141,780,East,Orthopedics,Standard,37150.09
+93524,2025-02-16,2635,576,Midwest,Cardiology,Standard,38945.12
+22219,2025-05-26,5000,172,Midwest,Cardiology,Standard,24385.26
+10235,2023-03-03,4361,240,East,Cardiology,Standard,46238.73
+52929,2022-04-24,7583,681,East,Cardiology,High-Risk,61786.12
+77444,2025-03-14,8835,361,East,Orthopedics,High-Risk,70314.95
+18567,2022-10-30,1006,439,East,Orthopedics,Standard,46328.3
+80792,2024-01-14,4267,407,East,Orthopedics,Standard,57375.03
+75441,2023-08-11,7564,344,Midwest,Orthopedics,Standard,7160.16
+94555,2024-09-13,5928,614,East,Orthopedics,High-Risk,43506.08
+83698,2022-12-11,3606,436,West,Cardiology,High-Risk,43154.56
+15415,2024-03-24,6906,674,East,Cardiology,Standard,72367.52
+46159,2024-03-11,4273,660,Midwest,Orthopedics,High-Risk,55894.0
+53925,2024-10-21,8611,175,West,Orthopedics,Standard,57413.83
+15951,2025-03-16,1913,979,Midwest,Cardiology,High-Risk,56634.92
+97388,2025-08-03,3011,274,Midwest,Cardiology,High-Risk,50681.64
+18007,2024-12-12,2442,208,East,Cardiology,Standard,72985.48
+51832,2025-08-20,6546,282,East,Orthopedics,Standard,15420.81
+68596,2024-12-28,2829,291,West,Cardiology,Standard,52193.16
+40523,2022-12-27,9767,164,East,Orthopedics,High-Risk,66947.04
