@@ -1,0 +1,66 @@
+1. Period,Unique Physicians,MoM Growth (%),Interpretation (Actionable Insight)
+  
+2022-02,21,-40.00
+  Significant contraction in new physician adoption, indicating a possible slowdown in initial sales/marketing efforts post-launch.
+
+2022-05,26,+30.00
+  A strong rebound, suggesting a successful marketing campaign or sales initiative was executed in April/May.
+
+2022-10,22,+83.33
+  The highest growth rate in the year. This is a critical month to investigate. The company should analyze which new initiatives (e.g., new territory sales rep,
+    clinical trial results, or a medical conference) drove this dramatic acceleration to replicate the success.
+
+Overall Trend, Varies, and Fluctuates Wildly,
+  Adoption is highly volatile, suggesting sales efforts are episodic or reactive rather than consistent.
+    The customer should investigate the root cause of the steep drops (e.g., in June, September) to stabilize their commercial strategy.
+
+2. Hospital_System_ID,Revenue_Impact,Revenue_Share_%,Interpretation
+  
+932,"$310,935.01",0.62%
+  This hospital is the single largest revenue source, accounting for 0.62% of the total revenue.
+    
+208,"$307,475.20",0.62%
+  Closely following the top performer, this system also accounts for 0.62% of the revenue.
+    
+632,"$287,915.20",0.58%
+  This system ranks third, contributing slightly less to the overall revenue.
+
+681,"$276,066.29",0.55%
+  Ranks fourth among the top accounts.
+  
+453,"$240,674.05",0.48%
+  The fifth-largest system, generating nearly a quarter million in revenue.
+
+    #Key Strategic Insights for the CustomerLow Revenue Concentration:
+      The most significant observation is the low percentage share of the top accounts. If you sum the shares ($0.62 + 0.62 + 0.58 + 0.55 + 0.48$), the Top 5 Hospitals only account
+      for $\approx 2.85\%$ of the total market revenue.
+    Actionable Insight: The customer is not overly reliant on a few huge accounts. The sales strategy should focus heavily on market breadth and efficiency
+      (scalability, as mentioned in the job description) rather than deep customization for a handful of giant accounts. They need to find repeatable processes to activate
+      and grow many smaller accounts.Benchmark for Success: Hospital System 932 sets the revenue benchmark at $\approx \$310k$.
+    Actionable Insight: The customer should investigate the successful implementation model (e.g., number of adopting physicians, types of patients, sales strategy)
+      used at System 932 and standardize it to uplift the performance of other hospitals that are lagging.Tiered Targeting: These Top 5 accounts are the Tier 1 targets
+      and should receive focused relationship management to ensure contract renewal and prevent competitive penetration, even though their individual share is small.
+      The majority of the company's effort, however, must be spread across the broader base of hospitals.
+        
+3. #Key Strategic Insights for the Customer
+#1. Market Traction (Where Usage is Highest)
+#Cardiology Dominates: The Cardiology specialty accounts for the highest volume of procedures overall (312 Standard + 145 High-Risk = 457 total procedures),
+        indicating the device has found its strongest product-market fit here.
+
+#Standard Cohort Preference: Across all specialties, the device is used significantly more often in Standard patient cohorts than in High-Risk cohorts (e.g., Cardiology has
+        312 Standard vs. 145 High-Risk procedures).
+
+#Actionable Insight: The customer should investigate if this is due to lack of physician training/confidence to use the device on complex, high-risk cases, or if the device's
+        clinical benefits are simply better suited for standard-risk patients. Targeted training for high-risk procedures could expand the market.
+
+#2. Revenue Performance (Commercial Value)
+#Revenue is Consistent: The Avg_Revenue per procedure is remarkably consistent across all segments, clustering around $48,000 to $51,000.
+
+#Actionable Insight: Pricing and reimbursement appear stable regardless of the specialty or patient cohort. The sales team should focus on volume (Total_Procedures),
+      as average revenue doesn't vary enough to justify prioritizing one group over another based on price alone.
+
+#3. Lowest Penetration (Target for Growth)
+#General Surgery's High-Risk Cohort has the lowest procedure volume (71).
+
+#Actionable Insight: This is the segment with the most untapped potential. If the device is clinically appropriate, the customer should launch a focused marketing
+      campaign and specialized training to increase physician adoption within the General Surgery community, especially for complex, High-Risk cases.
